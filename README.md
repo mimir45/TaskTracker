@@ -27,6 +27,7 @@
 - Docker Compose
 - Lombok
 - React
+- TypeScript
 
 
 
