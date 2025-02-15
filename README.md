@@ -40,7 +40,7 @@
 Please follow the below directions in order to build and run the application with Docker Compose;
 
 ```sh
-$ cd open-weather
+$ cd TaskTracker
 $ docker-compose up -d
 ```
 
